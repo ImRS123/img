@@ -1,5 +1,3 @@
-huggingface_hub
-spaces
 diffusers
 tokenizers==0.12.1
 datasets
